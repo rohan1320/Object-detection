@@ -1,0 +1,5 @@
+classes = 4
+train = /content/gdrive/MyDrive/yolo_custom_model_Training/train.txt
+valid = /content/gdrive/MyDrive/yolo_custom_model_Training/test.txt
+names = /content/gdrive/MyDrive/yolo_custom_model_Training/classes.names
+backup = /content/gdrive/MyDrive/yolo_custom_model_Training/backup/
